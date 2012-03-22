@@ -1,0 +1,10 @@
+2012-03-19	Scott-David Jones <enquiries@autumndev.co.uk>
+Version 0.02
+		* Global: Changed module name to Custom Hook Points to better describe the module. 
+		* mcp.customhooks.php: Added Licensing test to top of file. Fixed bug where by non alpha numeric chars could be used in hook point name.
+		* upd.customhooks.php: Added Licensing test to top of file. Made the hook_name in the DB unique.
+		* customhooks_lang.php: Added Licensing test to top of file.
+		* index.php: Added Licensing test to top of file. changed to get headings from lang file.
+		* add.php: Added Licensing test to top of file. changed to get headings from lang file.
+		* COPYING: GNU Licencing.
+		* Licence: Txt version of GNU Licencing.
